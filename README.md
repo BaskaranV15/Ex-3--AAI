@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>NAME:BASKARAN V</H3>
+<H3>REGISTER NO:212222230020</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
@@ -86,8 +86,12 @@ print("\nApproximate Probabilities of {}:".format(query_variable))
 print(query_result)
 ```
 ## Output:
+![image](https://github.com/BaskaranV15/Ex-3--AAI/assets/118703522/553a8ae0-ab8c-4f0c-ac73-fe24b4ac1c81)
+
 
 ![download](https://github.com/BaskaranV15/Ex-3--AAI/assets/118703522/31b21fb7-ef63-4560-9c48-e371ff50feaa)
+
+![image](https://github.com/BaskaranV15/Ex-3--AAI/assets/118703522/557baed0-ca30-496b-b8b7-99b6d9f36990)
 
 ## Result:
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
